@@ -1,2 +1,5 @@
 # OnTrack
-Browser extension that keeps you from being distracted by keeping you from getting distracted.
+
+## A chrome extension that uses machine learning to stop you getting distracted
+
+## This extension was made as part of my dissertation

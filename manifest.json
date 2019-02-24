@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+    "name": "OnTrack",
+    "version": 0.1,
+
+    "description": "Uses Machine learning to Keep you Focused on what really needs to be done"
+}
