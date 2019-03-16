@@ -1,4 +1,4 @@
-# OnTrack
+# FocusBeam
 
 ## A chrome extension that uses machine learning to stop you getting distracted
 
